@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFz_rHSgVU/hkeB8iKoMKVLcG0fJeRltw/view?utm_content=DAFz_rHSgVU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![MasterHead](C:\Users\pc\Downloads\banner.png)
 <h1 align="center">Hi 👋, I'm Anas Naciri</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
