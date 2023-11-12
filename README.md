@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\pc\Downloads\banner.png)
+![MasterHead](https://ibb.co/d5Xwqtb)
 <h1 align="center">Hi 👋, I'm Anas Naciri</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
