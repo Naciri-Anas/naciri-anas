@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Naciri-Anas/Scren/blob/main/banner.png?raw=true)
+![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
 <h1 align="center">Hi 👋, I'm Anas Naciri</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
