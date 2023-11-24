@@ -2,12 +2,12 @@
 <h2 align="center">
 Hi, I'm Anas Naciri!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
-  <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
+ 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&lines=Full Stack+Developer+"></a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&lines=FullStack+Developer+"></a>
 </p>
 <hr/>
 <samp>
