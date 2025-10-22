@@ -14,7 +14,7 @@ Hi, I'm Anas Naciri!
 I am a dedicated and results-driven Full Stack Developer with a profound passion for computer science and a specialized interest in information security. With a solid foundation in both front-end and back-end technologies, I bring a comprehensive skill set to the dynamic and evolving field of software development. 
 </samp>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
 	<a href="https://github.com/Naciri-Anas" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/anas-naciri/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
